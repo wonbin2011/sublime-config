@@ -10,8 +10,10 @@ Sublime 3 config files
 
 cd /home/your_dir/.config/sublime-text-3/Packages/User
 
-git clone 
+git clone git@github.com:wonbin2011/sublime-config.git
+
 mv sublime-config/* .
+
 rm -rf sublime-config
 
 到 https://packagecontrol.io/installation 安装 packagecontrol 。这样所有的包会自动安装上。（ ctrlA跟 导引号 来呼叫出 command console ）
