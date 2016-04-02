@@ -1,0 +1,6 @@
+{
+    "cmd":["/usr/bin/firefox","$file"],
+    "selector":["text.html"]
+}
+
+
